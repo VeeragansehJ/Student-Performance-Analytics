@@ -1,5 +1,4 @@
 # Student Performance Analytics
-Interactive Tableau dashboard analyzing student performance by gender, subject, and parental education.
 
 ## 📊 Project Overview
 This project analyzes student academic performance using interactive Tableau dashboards.  
