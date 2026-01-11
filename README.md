@@ -23,7 +23,7 @@ It explores how scores vary by gender, subject, parental education level, and pe
 - Storytelling using Tableau Story feature
 
 ## 🔗 Tableau Public Dashboard
-👉 Paste your Tableau Public link here
+👉 https://public.tableau.com/app/profile/veeraganesh.j/viz/Student_Performance_Analytics/Dashboard2
 
 ## 📂 Dataset
 - `StudentsPerformance.csv`
